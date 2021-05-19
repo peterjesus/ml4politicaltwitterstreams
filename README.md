@@ -17,5 +17,5 @@ It is a multidisciplinary problem that could be interesting since it consider di
 I have mainly worked with Python for Twitter data processing and I have leveraged other already-implemented methods for online rules analysis:
 well as other methods for online rules analysis such as FuzzyCSar-AFP and MOA-IncMine. 
 
-- FuzzyCSar-AFP ()
-- MOA-IncMine
+- FuzzyCSar-AFP (https://www.sciencedirect.com/science/article/abs/pii/S0888613X17300932)
+- MOA-IncMine (https://www.cs.waikato.ac.nz/~abifet/MOA-IncMine/)
