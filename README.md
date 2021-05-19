@@ -1,17 +1,20 @@
 # ml4politicaltwitterstreams
 
 
-### Analysis of real-time associations on Twitter
+## Analysis of real-time associations on Twitter
 
-Within this repository I have gathered the research I carried out during 2018 for my final MSc thesis at the University of Granada.
 
-Our goal was to study
+##### Description
+
+Within this repository I have gathered the research I carried out in 2019 for my final MSc thesis at the University of Granada.
+
+We perform a real-dataset generation by using Twitter API in order to extract those tweets related to specific political hashtag during July and August 2019. Our goal was to perform a study concept drift phenomena within this data in order to develop a model capable of monitoring political campaigns.
 
 It is a multidisciplinary problem that could be interesting since it consider different Machine Learning fields, such as:
 
 - Data Stream Mining
 - Natural Language Processing
-- Unsupervised Learning: Association Rules Learning 
+- Unsupervised Learning (Association Rules Learning)
 - Social Media Mining
 
 I have mainly worked with Python for Twitter data processing and I have leveraged other already-implemented methods for online rules analysis:
