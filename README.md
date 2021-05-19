@@ -24,6 +24,8 @@ well as other methods for online rules analysis such as FuzzyCSar-AFP and MOA-In
 - MOA-IncMine (https://www.cs.waikato.ac.nz/~abifet/MOA-IncMine/)
 
 
+
+
 ##### Note
 
-Data are not provided within this repo, but I am totally open to share it in case anybody is interested.
+Spain dataset as well as results files are not provided within this repo, but I am totally open to share it in case anybody is interested.
