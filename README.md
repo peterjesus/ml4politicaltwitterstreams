@@ -22,3 +22,8 @@ well as other methods for online rules analysis such as FuzzyCSar-AFP and MOA-In
 
 - FuzzyCSar-AFP (https://www.sciencedirect.com/science/article/abs/pii/S0888613X17300932)
 - MOA-IncMine (https://www.cs.waikato.ac.nz/~abifet/MOA-IncMine/)
+
+
+##### Note
+
+Data are not provided within this repo, but I am totally open to share it in case anybody is interested.
